@@ -1,0 +1,13 @@
+{application, inet_cidr, [
+    {description, "CIDR library for Erlang"},
+    {vsn, "0.2.0"},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env, []},
+    {modules, []},
+    {licenses, ["MIT"]},
+    {links, []}
+]}.
